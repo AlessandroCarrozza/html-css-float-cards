@@ -36,8 +36,8 @@ main{
  }
 
 .photo{
-    height: 120px;
-    width: 120px;
+    height: 100%;
+    width: 30%;
     background-image: url(../img/male1.png);
     background-size: cover;
 }
@@ -45,6 +45,7 @@ main{
 .info{
     height: 100%;
     color: white;
+    width: 70%;
 }
 
 .info span, a{
