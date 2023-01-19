@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main{
+    width: 70%;
+    margin: auto;
+}
+
+.title-text{
+    text-align: center;
+}
+
+.title-text h1{
+    margin: 30px 0 40px;
+}
