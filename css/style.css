@@ -38,7 +38,6 @@ main{
 .photo{
     height: 120px;
     width: 120px;
-    background-color: green;
     background-image: url(../img/male1.png);
     background-size: cover;
 }
